@@ -1,15 +1,18 @@
 ---
 layout: page
-title: About
-permalink: "/about/"
-image: assets/images/screenshot.png
+title: Our Family
+permalink: "/ourfamily/"
 ---
 
-This website is a demonstration to see **Affiliates Jekyll theme** in action. 
+![Sofy](../assets/images/sofy.jpeg)
+<p>Sofy is the owner of Sofy's Hair Salon. She has been cutting hair for the last 13 years and believes in creating a safe family-focused environment while cutting hair.</p>
 
-The theme is compatible with Github pages. This demo is created with Github Pages and hosted with Github. 
+![Neelu](../assets/images/neelu.jpeg)
+<p>Neelu has been a hair stylist for 30 years and still every haircut is special for her.</p>
 
-Everything is ready for your quick setup: Blog, Categories, About, Privacy Policy, Terms of Use, Contact form, Mailchimp
+![Maria](../assets/images/maria.png)
+<p>Maria is the receptionist welcoming all customers with a big smile.</p>
 
-[Get it here](https://bootstrapstarter.com/jekyll-theme-memoirs/)
+
+
 
